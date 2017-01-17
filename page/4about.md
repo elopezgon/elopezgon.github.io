@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Conócenos
 permalink: /about/
 icon: heart
 type: page
