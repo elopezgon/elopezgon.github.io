@@ -50,7 +50,7 @@
         description: ''
     }, {
         demo_link: 'https://elopezgon.github.io/2016/10/21/marihuana_mexico/',
-        img_link: 'https://elopezgon.github.io/images-post/marihuana_mexico_ent.jpg',
+        img_link: 'https://elopezgon.github.io/images-post/marihuana_mexico_ent.png',
         code_link: 'https://elopezgon.github.io/2016/10/21/marihuana_mexico/',
         title: 'Todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar',
         core_tech: 'R',
