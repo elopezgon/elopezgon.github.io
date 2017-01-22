@@ -34,11 +34,7 @@ function generateContent() {
 
 fixSidebar()
 
-/**
- * [fixSidebar description]
- * 滚轮滚到一定位置时，将 sidebar-wrap 添加 fixed 样式
- * 反之，取消样式
- */
+/
 function fixSidebar() {
     var sidebarWrap = document.querySelector('.sidebar-wrap')
     window.onscroll = function() {
@@ -60,9 +56,7 @@ controlHeight()
  * 控制 sidebar 的高度
  */
 function controlHeight() {
-    //先获取similar posts 的高度
-    //和用户浏览器窗口的高度
-    //给content设置最大高度
+    
     var similarDiv = document.querySelector('.related-post')
     var contentUl = document.querySelector('.content-ul')
     var similarDivHeight = similarDiv.offsetHeight

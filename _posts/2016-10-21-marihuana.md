@@ -17,4 +17,4 @@ La perversa necesidad de compararse resulta útil para contextualizar los efecto
 
  Debido a que la salud, la tolerancia y la violencia no se pueden medir directamente, es necesario contar con mediciones de fenómenos relacionados que permitan inducir de forma comparativa en qué lugar se encuentra un país en particular. Éste es el propósito de un índice, que con datos tratados de forma metodológica y replicable permitan la comparabilidad entre cada país con datos integrados por una entidad imparcial o lo más cercano a ello.
 
-![areas verdes](/images-post/marihuana_mex.jpg)
+![areas verdes](/images-post/marihuana.png)
