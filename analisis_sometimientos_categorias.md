@@ -1,3 +1,17 @@
+---
+layout: post
+title:  "Cuadro Básico"
+date:   2016-10-21 
+categories: Notas
+tags: medicamentos cuadro_basico precios
+author: Edgar, Roberto
+
+---
+* content
+{:toc}
+
+
+
 Base de datos de Sometimientos
 ================
 
