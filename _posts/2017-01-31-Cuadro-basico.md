@@ -61,11 +61,11 @@ Outliers
 
 #### Endocrinologia
 
- |Fecha.de.emision|Precio|Actualizacion|Presentacion|
- |----------------|------|-------------|------------|
- |2013-11-05 | 52890.97|     Inclusión|Nitisinona 2mg cada caja con 60 cápsulas|
- |2013-11-05 |132227.88  |   Inclusión|Nitisinona 5mg cada caja con 60 cápsulas|
- |2013-11-05| 264456.18  |   Inclusión|Nitisinona 10mg cada caja con 60 cápsulas|
+ |Fecha.de.emision|Precio|Actualizacion|Nombre|Presentacion|
+ |----------------|------|-------------|------|-----------|
+ |2013-11-05 | 52890.97|     Inclusión|Nitisinona| 2mg cada caja con 60 cápsulas|
+ |2013-11-05 |132227.88  |   Inclusión|Nitisinona| 5mg cada caja con 60 cápsulas|
+ |2013-11-05| 264456.18  |   Inclusión|Nitisinona| 10mg cada caja con 60 cápsulas|
                                      
 
 ![](/imagenes-post/cuadro_basico/cuadro_basico_6.png)
