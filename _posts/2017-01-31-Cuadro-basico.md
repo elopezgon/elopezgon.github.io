@@ -9,7 +9,7 @@ El presente análisis busca describir la forma en la que el CSG ha ido actualiza
 
 #### Número de solicitudes por grupo terapéutico para modificación o inclusión en el cuadro básico
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_1.png)
+![](/images-post/cuadro_basico/cuadro_basico_1.png)
 
 
 ***Observamos:***
@@ -19,7 +19,7 @@ El presente análisis busca describir la forma en la que el CSG ha ido actualiza
 
 #### Proporción de medicamentos aceptados al cuadro básico por grupo terapéutico
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_2.png)
+![](/images-post/cuadro_basico/cuadro_basico_2.png)
 
 ***De lo anterior se puede concluir que:***
 
@@ -28,7 +28,7 @@ El presente análisis busca describir la forma en la que el CSG ha ido actualiza
 
 #### Promedio de precios de medicamentos aceptados por grupo terapéutico
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_3.png)
+![](/images-post/cuadro_basico/cuadro_basico_3.png)
 
 **Conclusiones:**
 
@@ -40,7 +40,7 @@ Desagregado por años
 
 #### Diágrama de caja y brazos de precios
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_4.png)
+![](/images-post/cuadro_basico/cuadro_basico_4.png)
 
 **Observaciones**
 
@@ -49,7 +49,7 @@ Desagregado por años
 
 #### Diágrama de caja y brazos desagregado por tipo de actualización
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_5.png)
+![](/images-post/cuadro_basico/cuadro_basico_5.png)
 
 **Observaciones**
 
@@ -68,7 +68,7 @@ Outliers
  |2013-11-05| 264456.18  |   Inclusión|Nitisinona| 10mg cada caja con 60 cápsulas|
                                      
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_6.png)
+![](/images-post/cuadro_basico/cuadro_basico_6.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente. La nitisinona es un medicamento para tratar una enfermedad rara llamada tirosinemina hereditaria tipo I. Por lo que no es un medicamento para tratar enfermedades comunes en el grupo terapéutico.*
 
@@ -81,19 +81,20 @@ Outliers
 |2014-09-02|  3521.486| Tirofiban| Modificación|Tirofiban 12.5 mg bolsa
 |2016-05-10 |26000.000 |Alprostadil 500 µg|Inclusión|Caja de cartón con 5 ampolletas etiquetadas con 500mcg/1mL
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_7.png)
+![](/images-post/cuadro_basico/cuadro_basico_7.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente. Aunque el Aprostadil fue catalogado en el cuadro basico dentro del grupo terapéutico Cardiología, es usado para el tratamiento de disfunción erectil.*
 
 **Obs**: *Se puede observar una mejor visualización de la escala de los datos. Claramente se nota que el año 2016 fue un año atipico en el sentido de que aumento tanto el rango de precios de los medicamentos aceptados asi como el precio promedio de manera significativa.*
 
 #### Vacunas
+
 |Fecha.de.emision|Precio|Nombre|Actualizacion| Presentacion|
 |----------------|------|-----|-------------|--------------|
 |2014-09-02| 5247.327| Vacuna contra Rotavirus|  Modificación|Envase con 50 jeringas prellenadas y/o tubo de plástico con 1.5 ml|
 |2015-08-25| 5269.837|  Inmunoglobulina humana|  Inclusión|4g/ 20 ml|
  
-![](/imagenes-post/cuadro_basico/cuadro_basico_8.png)
+![](/images-post/cuadro_basico/cuadro_basico_8.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente*
 
@@ -106,7 +107,7 @@ Outliers
 |2016-09-20| 25200.00|    Turoctocog alfa|Inclusión|Frasco ámpula con 3000 UI|
 |2016-10-18| 32000.00| Fibrinógeno Humano|Inclusión|Frasco ámpula con 1.5 g de fibrinógeno humano y frasco ámpula con 100 ml de diluyente
 
-![](/imagenes-post/cuadro_basico/cuadro_basico_9.png)
+![](/images-post/cuadro_basico/cuadro_basico_9.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente*
 
