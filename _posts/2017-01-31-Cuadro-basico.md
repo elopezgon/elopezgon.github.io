@@ -1,133 +1,34 @@
----
-layout: post
-title:  "Cuadro Básico"
-date:   2016-10-21 
-categories: Notas
-tags: medicamentos cuadro_basico precios
-author: Edgar, Roberto
+Una de las obligaciones del Consejo de Salubridad Genera(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público clasificados por grupo terapéutico.
 
----
-* content
-{:toc}
+Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos medicamentos en el Cuadro básico se encuentran publicados en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5197525&fecha=22/06/2011). Sin embargo, estas solicitudes de inclusión, modificación y exclusión deben de estar acompañados de **ensayos clínicos controlados**, **estudios de fármaeconomía** y **evaluación de tecnologías**  para ser consideradas por el CSG.
+
+El presente análisis busca describir la forma en la que el CSG ha ido actualizando el Cuadro Básico y analizar si existe alguna tendencia en los precios que indique una politica de **costo-efectividad** a largo plazo,o bien una **reducción de costos** que impacte en el corto plazo.
+
+**Nota**: Los datos utilizados para este estudio se encuentran publicados en http://www.csg.gob.mx/contenidos/CB2013/medicamentos/ev_proceso.html
 
 
+#### Número de solicitudes por grupo terapéutico para modificación o inclusión en el cuadro básico
 
-Base de datos de Sometimientos
-================
+![](/imagenes-post/cuadro_basico/cuadro_basico_1.png)
 
-### Número de solicitudes por grupo terapéutico para modificación o inclusión en el cuadro básico
-
-    ## 
-    ##                                         Analgesia 
-    ##                                                14 
-    ##                                         Anestesia 
-    ##                                                 3 
-    ##                                       Cardiología 
-    ##                                                20 
-    ##                                      Dermatología 
-    ##                                                 3 
-    ##                      Endocrinología y Metabolismo 
-    ##                                                43 
-    ##           Enfermedades Infecciosas y Parasitarias 
-    ##                                                25 
-    ##                      Enfermedades Inmunoalérgicas 
-    ##                                                 3 
-    ##                                 Gastroenterología 
-    ##                                                 4 
-    ##                                Gineco-obstetricia 
-    ##                                                 6 
-    ##                                       Hematología 
-    ##                                                55 
-    ##                             Nefrología y Urología 
-    ##                                                 3 
-    ##                                        Neumología 
-    ##                                                16 
-    ##                                        Neurología 
-    ##                                                17 
-    ##                                    No clasificado 
-    ##                                                27 
-    ##                                       Nutriología 
-    ##                                                25 
-    ##                                      Oftalmología 
-    ##                                                 7 
-    ##                                         Oncología 
-    ##                                                96 
-    ##                              Otorrinolaringología 
-    ##                                                 2 
-    ##                            Planificación Familiar 
-    ##                                                 4 
-    ##                                       Psiquiatría 
-    ##                                                 4 
-    ##                      Reumatología y Traumatología 
-    ##                                                21 
-    ## Soluciones Electrolíticas y Sustitutos del Plasma 
-    ##                                                 3 
-    ##     Vacunas,Toxoides, Inmunoglobuinas,Antitoxinas 
-    ##                                                23
 
 ***Observamos:***
 
 -   *Los grupos terapéuticos con mayores solicitudes son: Oncología y Hematología.*
 -   *Como se puede observar hay grupo terapéuticos con menos de 10 solicitudes por lo que se omitiran en el análisis.*
 
-### Proporción de medicamentos aceptados al cuadro básico por grupo terapéutico
+#### Proporción de medicamentos aceptados al cuadro básico por grupo terapéutico
 
-    ## tcategorias$Categoria
-    ##                                     Analgesia 
-    ##                                     0.9285714 
-    ## Vacunas,Toxoides, Inmunoglobuinas,Antitoxinas 
-    ##                                     0.8695652 
-    ##                                   Hematología 
-    ##                                     0.8181818 
-    ##                  Endocrinología y Metabolismo 
-    ##                                     0.7906977 
-    ##       Enfermedades Infecciosas y Parasitarias 
-    ##                                     0.7600000 
-    ##                                   Nutriología 
-    ##                                     0.7600000 
-    ##                  Reumatología y Traumatología 
-    ##                                     0.6666667 
-    ##                                    Neumología 
-    ##                                     0.6250000 
-    ##                                   Cardiología 
-    ##                                     0.6000000 
-    ##                                     Oncología 
-    ##                                     0.5729167 
-    ##                                    Neurología 
-    ##                                     0.5294118 
-    ##                                No clasificado 
-    ##                                     0.0000000
+![](/imagenes-post/cuadro_basico/cuadro_basico_2.png)
 
 ***De lo anterior se puede concluir que:***
 
 -   *Los medicamentos clasificados en grupos terapéuticos Vacunas y Analgesia son los más aceptados.*
 -   *Mientras que los medicamentos pertenecientes a Oncología y Neurología.*
 
-### Promedio de precios de medicamentos aceptados por grupo terapéutico
+#### Promedio de precios de medicamentos aceptados por grupo terapéutico
 
-    ## base$Categoria
-    ##       Enfermedades Infecciosas y Parasitarias 
-    ##                                    26895.3689 
-    ##                                     Oncología 
-    ##                                    26463.9155 
-    ##                  Endocrinología y Metabolismo 
-    ##                                    16067.8779 
-    ##                                    Neurología 
-    ##                                     8616.7600 
-    ##                                   Hematología 
-    ##                                     6962.0774 
-    ##                                    Neumología 
-    ##                                     6272.5160 
-    ##                  Reumatología y Traumatología 
-    ##                                     5675.0936 
-    ##                                   Cardiología 
-    ##                                     2660.0858 
-    ##                                     Analgesia 
-    ##                                     1481.0892 
-    ## Vacunas,Toxoides, Inmunoglobuinas,Antitoxinas 
-    ##                                     1218.3085 
-    ##                                   Nutriología 
-    ##                                      489.7629
+![](/imagenes-post/cuadro_basico/cuadro_basico_3.png)
 
 **Conclusiones:**
 
@@ -137,18 +38,18 @@ Base de datos de Sometimientos
 Desagregado por años
 --------------------
 
-### Diágrama de caja y brazos de precios
+#### Diágrama de caja y brazos de precios
 
-![](analisis_sometimientos_categorias_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](/imagenes-post/cuadro_basico/cuadro_basico_4.png)
 
 **Observaciones**
 
 -   *Parece aumentar el rango de precios en el que son aceptados medicamentos de los grupos terapéuticos Analgesia, Cardiología y Oncología(No necesariamente implica un aumento promedio del precio).*
 -   *Parece disminuir el rango de precios en el que son aceptados medicamentos del grupo Neurología.*
 
-### Diágrama de caja y brazos desagregado por tipo de actualización
+#### Diágrama de caja y brazos desagregado por tipo de actualización
 
-![](analisis_sometimientos_categorias_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](/imagenes-post/cuadro_basico/cuadro_basico_5.png)
 
 **Observaciones**
 
@@ -158,65 +59,54 @@ Desagregado por años
 Outliers
 --------
 
-### Endocrinologia
+#### Endocrinologia
 
-    ##     Fecha.de.emision    Precio Actualizacion
-    ## 122       2013-11-05  52890.97     Inclusión
-    ## 123       2013-11-05 132227.88     Inclusión
-    ## 124       2013-11-05 264456.18     Inclusión
-    ##                                   Presentacion
-    ## 122  Nitisinona 2mg cada caja con 60 cápsulas:
-    ## 123  Nitisinona 5mg cada caja con 60 cápsulas:
-    ## 124 Nitisinona 10mg cada caja con 60 cápsulas:
+ |Fecha.de.emision|Precio|Actualizacion|Presentacion|
+ |----------------|------|-------------|------------|
+ |2013-11-05 | 52890.97|     Inclusión|Nitisinona 2mg cada caja con 60 cápsulas|
+ |2013-11-05 |132227.88  |   Inclusión|Nitisinona 5mg cada caja con 60 cápsulas|
+ |2013-11-05| 264456.18  |   Inclusión|Nitisinona 10mg cada caja con 60 cápsulas|
+                                     
 
-![](analisis_sometimientos_categorias_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](/imagenes-post/cuadro_basico/cuadro_basico_6.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente. La nitisinona es un medicamento para tratar una enfermedad rara llamada tirosinemina hereditaria tipo I. Por lo que no es un medicamento para tratar enfermedades comunes en el grupo terapéutico.*
 
 **Obs:** *Podemos notar que removiendo los outliers cambia el rango de precios del año 2013, observandose que la mayoría de los precios de los medicamentos se concentran alrededor de aprox. $300, siendo el 2014 un año en donde se aceptaron precios más variados respecto al 2013*
 
-### Cardiología
+#### Cardiología
 
-    ##     Fecha.de.emision    Precio             Nombre Actualizacion
-    ## 177       2014-09-02  3521.486          Tirofiban  Modificación
-    ## 341       2016-05-10 26000.000 Alprostadil 500 µg     Inclusión
-    ##                                                   Presentacion
-    ## 177                                    Tirofiban 12.5 mg bolsa
-    ## 341 Caja de cartón con 5 ampolletas etiquetadas con 500mcg/1mL
+|Fecha.de.emision|Precio|Nombre|Actualizacion|Presentacion
+|----------------|------|--------|-----------|-----------|
+|2014-09-02|  3521.486| Tirofiban| Modificación|Tirofiban 12.5 mg bolsa
+|2016-05-10 |26000.000 |Alprostadil 500 µg|Inclusión|Caja de cartón con 5 ampolletas etiquetadas con 500mcg/1mL
 
-![](analisis_sometimientos_categorias_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](/imagenes-post/cuadro_basico/cuadro_basico_7.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente. Aunque el Aprostadil fue catalogado en el cuadro basico dentro del grupo terapéutico Cardiología, es usado para el tratamiento de disfunción erectil.*
 
 **Obs**: *Se puede observar una mejor visualización de la escala de los datos. Claramente se nota que el año 2016 fue un año atipico en el sentido de que aumento tanto el rango de precios de los medicamentos aceptados asi como el precio promedio de manera significativa.*
 
-### Vacunas
-
-    ##     Fecha.de.emision   Precio                  Nombre Actualizacion
-    ## 181       2014-09-02 5247.327 Vacuna contra Rotavirus  Modificación
-    ## 263       2015-08-25 5269.837  Inmunoglobulina humana     Inclusión
-    ##                                                           Presentacion
-    ## 181 Envase con 50 jeringas prellenadas y/o tubo de plástico con 1.5 ml
-    ## 263                                                          4g/ 20 ml
-
-![](analisis_sometimientos_categorias_files/figure-markdown_github/unnamed-chunk-10-1.png)
+#### Vacunas
+|Fecha.de.emision|Precio|Nombre|Actualizacion| Presentacion|
+|----------------|------|-----|-------------|--------------|
+|2014-09-02| 5247.327| Vacuna contra Rotavirus|  Modificación|Envase con 50 jeringas prellenadas y/o tubo de plástico con 1.5 ml|
+|2015-08-25| 5269.837|  Inmunoglobulina humana|  Inclusión|4g/ 20 ml|
+ 
+![](/imagenes-post/cuadro_basico/cuadro_basico_8.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente*
 
-### Hematología
+#### Hematología
 
-    ##     Fecha.de.emision   Precio             Nombre Actualizacion
-    ## 272       2015-08-25 24115.40       Eptacog alfa  Modificación
-    ## 273       2015-08-25 60288.49       Eptacog alfa  Modificación
-    ## 367       2016-09-20 25200.00    Turoctocog alfa     Inclusión
-    ## 391       2016-10-18 32000.00 Fibrinógeno Humano     Inclusión
-    ##                                                                                       Presentacion
-    ## 272 Envase con un frasco ámpula con liofilizado (2 mg) y un frasco ámpula con  2.1 ml de diluyente
-    ## 273 Envase con un frasco ámpula con liofilizado (5 mg) y un frasco ámpula con  5.2 ml de diluyente
-    ## 367                                                                      Frasco ámpula con 3000 UI
-    ## 391          Frasco ámpula con 1.5 g de fibrinógeno humano y frasco ámpula con 100 ml de diluyente
+|Fecha de emision|Precio|Nombre|Actualizacion|Presentacion|
+|------------|-------|--------------|--------|------|
+|2015-08-25| 24115.40|Eptacog alfa|  Modificación| Envase con un frasco ámpula con liofilizado (2 mg) y un frasco ámpula con  2.1 ml de diluyente|
+|2015-08-25| 60288.49|Eptacog alfa|  Modificación|Envase con un frasco ámpula con liofilizado (5 mg) y un frasco ámpula con  5.2 ml de diluyente|
+|2016-09-20| 25200.00|    Turoctocog alfa|Inclusión|Frasco ámpula con 3000 UI|
+|2016-10-18| 32000.00| Fibrinógeno Humano|Inclusión|Frasco ámpula con 1.5 g de fibrinógeno humano y frasco ámpula con 100 ml de diluyente
 
-![](analisis_sometimientos_categorias_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](/imagenes-post/cuadro_basico/cuadro_basico_9.png)
 
 **Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente*
 
