@@ -90,9 +90,9 @@ Outliers
 #### Vacunas
 
 |Fecha.de.emision|Precio|Nombre|Actualizacion| Presentacion|
-|----------------|------|-----|-------------|--------------|
-|2014-09-02| 5247.327| Vacuna contra Rotavirus|  Modificación|Envase con 50 jeringas prellenadas y/o tubo de plástico con 1.5 ml|
-|2015-08-25| 5269.837|  Inmunoglobulina humana|  Inclusión|4g/ 20 ml|
+|----------------|------|------|-------------|--------------|
+|2014-09-02|5247.327| Vacuna contra Rotavirus| Modificación|Envase con 50 jeringas prellenadas y/o tubo de plástico con 1.5 ml|
+|2015-08-25|5269.837|  Inmunoglobulina humana|  Inclusión|4g/ 20 ml|
  
 ![](/images-post/cuadro_basico/cuadro_basico_8.png)
 
