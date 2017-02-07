@@ -1,11 +1,12 @@
 ---
 layout: post
-title:"Consejo de Salubridad General"
+title:  "Consejo de Salubridad General"
 date:   2017-01-31
 categories: blog
 tags: cuadro_basico medicamentos 
 author: Edgar, Roberto
 ---
+
 Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cuál es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público. Estos medicamentos se encuentran clasificados por los siguientes grupos terapéuticos.
 
 
