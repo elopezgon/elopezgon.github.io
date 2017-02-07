@@ -203,3 +203,79 @@ El grupo de Endocrinología y Metabolismo, donde se encuentran tratamientos para
 
 Analgesia es el grupo que más se ha aceptado en el cuadro básico, ya se para modificación o inclusión, y también es el que presenta menores precios en los medicamentos. 
 
+
+##Medicamentos Endocrinología
+
+
+    ##                                 Nombre
+    ## 11                        Desmopresina
+    ## 64                       Taliglucerasa
+    ## 71                          Lanreotida
+    ## 72                          Lanreotida
+    ## 69                        Lixisenatida
+    ## 70                        Lixisenatida
+    ## 77                         liraglutide
+    ## 110           linagliptina/ metformina
+    ## 111           linagliptina/ metformina
+    ## 112           linagliptina/ metformina
+    ## 122                         Nitisinona
+    ## 123                         Nitisinona
+    ## 124                         Nitisinona
+    ## 134                        Somatropina
+    ## 135                        Somatropina
+    ## 142                         Cinacalcet
+    ## 166                          Icatibant
+    ## 193                         Lanreotido
+    ## 194                         Lanreotido
+    ## 222    Carbonato de calcio/ Vitamina D
+    ## 210                     Dapagliflozina
+    ## 211                     Dapagliflozina
+    ## 231                     Empagliflozina
+    ## 289                        Somatropina
+    ## 309                        Liraglutida
+    ## 324                 Taliglucerasa Alfa
+    ## 327                       Ciprofibrato
+    ## 332                          Exenatida
+    ## 349 Inhibidor de la esterasa C1 humano
+    ## 375                        Somatropina
+    ## 385                    Elosulfasa Alfa
+    ## 380          Empaglifozina/ Metformina
+    ## 381          Empaglifozina/ Metformina
+    ## 382          Empaglifozina/ Metformina
+    ##                                                                                                                                                          Presentacion
+    ## 11                                                                                                                                30 tabletas sublinguales de 120 mcg
+    ## 64                                                                                                                                                       Frasco 200UI
+    ## 71                                                                                                                                                      Jeringa 90 mg
+    ## 72                                                                                                                                                      Jeringa 120mg
+    ## 69                                                                                                                                                    Jeringa 0.05 mg
+    ## 70                                                                                                                                                     Jeringa 0.1 mg
+    ## 77                                                                                                                                                 Liraglutide 1.2 mg
+    ## 110                                                                                                                       Linagliptina 2.5mg/Metformina 500mg 60 tabs
+    ## 111                                                                                                                       Linagliptina 2.5mg/Metformina 850mg 60 tabs
+    ## 112                                                                                                                      Linagliptina 2.5mg/Metformina 1000mg 60 tabs
+    ## 122                                                                                                                         Nitisinona 2mg cada caja con 60 cápsulas:
+    ## 123                                                                                                                         Nitisinona 5mg cada caja con 60 cápsulas:
+    ## 124                                                                                                                        Nitisinona 10mg cada caja con 60 cápsulas:
+    ## 134                                                                                                                                                  Somatropina 5mg 
+    ## 135                                                                                                                                                 Somatropina 10mg 
+    ## 142                                                                                                                          Cinacalcet caja con 30 tabletas de 30 mg
+    ## 166                                                                                                                                Por cada jerina de icatibant 30 mg
+    ## 193                                                         Envase  con  una  jeringa prellenada de 0.5 ml con dispositivo  de  seguridad, (90 mg/jeringa prellenada)
+    ## 194                                                        Envase  con  una  jeringa prellenada de 0.5 ml con dispositivo  de  seguridad, (120 mg/jeringa prellenada)
+    ## 222                                                                                                                                            Envase con 30 tabletas
+    ## 210                                                                                                                        Dapagliflozina 10mg.  Caja con 14 tabletas
+    ## 211                                                                                                                        Dapagliflozina 10mg.  Caja con 28 tabletas
+    ## 231                                                                                                                   Empagliflozina 10 o 25 mg. Caja con 30 tabletas
+    ## 289 Envase con un frasco ámpula y un cartucho preensamblado o cartucho (jeringa prellenada) con 1.37 ml de diluyente, para multidosis o con autoinyector multidosis. 
+    ## 309                                                                        Envase con dos plumas con cartucho de 3 ml. Cada mililitro contiene 6 mg de liraglutida : 
+    ## 324                                                                                       Envase con frasco ámpula con polvo liofilizado 200 UI de taliglucerasa alfa
+    ## 327                                                                                                           Ciprofibrato 100 mg. Envase con 30 cápsulas o tabletas:
+    ## 332              Caja de cartón con 4 estuches de dosis unica. Cada estuche contiene: 1 frasco con polvo, 1 jeringa prellenada con diluyente, 1 conector y 2 agujas: 
+    ## 349                                                                                   Frasco ámpula con liofilizado con 500 UI y frasco ámpula con diluyente de 10 ml
+    ## 375      Envase con un cartucho prellenado para administrarse en dispositivo autoinyector contiene somatropina 1.5 mL (8 mg/mL) conteniendo 12 mg equivalente a 36 UI
+    ## 385                                                                                              Caja con un vial de 5 ml, cada vial contiene 5 mg de elosulfasa alfa
+    ## 380                                                                                                  Caja con 60 tabletas; 5 mg de empaglifozina/850 mg de metformina
+    ## 381                                                                                               Caja con 60 tabletas; 12.5 mg de empaglifozina/850 mg de metformina
+    ## 382                                                                                              Caja con 60 tabletas; 12.5 mg de empaglifozina/1000 mg de metformina
+
+
