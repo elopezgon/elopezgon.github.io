@@ -128,7 +128,7 @@ De acuerdo a la Federación Mexicana de Enfermedades Raras (FEMEXER), una enferm
 A continuación se muestra un comparativo, excluyendo aquellos medicamentos prescritos para enfermedades raras cuyo precio este por arriba del 75% de los medicamentos dentro del mismo grupo terapéutico. Es decir, aquellos outliers que corresponden a tratamientos para enfermedades raras y analizar la influencia que tienen.
 
 |Nombre|Categoria|Precio($)|
-|------|---------|------|
+|------|---------|------:|
 |Darbepoetina alfa (onco)|Hematología|  5,570.6|
 |Darbepoetina alfa (onco)|Hematología|  9,284.4|
 |Taliglucerasa| Endocrinología y Metabolismo|  7,189.3|
