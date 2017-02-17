@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Consejo de Salubridad General"
+title:  ¿Qué medicamentos se estan aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
-tags: cuadro_basico medicamentos 
+tags: grupos terapéuticos medicamentos
 author: Edgar, Roberto
 ---
-
-Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cuál es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público. Estos medicamentos se encuentran clasificados por los siguientes grupos terapéuticos.
-
+Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
+<p align="center"> 
+<img src="/images-post/dinero.jpg" width="450"> 
+</p>
 
 
 
@@ -18,10 +19,8 @@ Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar,
 
 Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos medicamentos en el Cuadro básico se encuentran publicados en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5197525&fecha=22/06/2011). Estas solicitudes de inclusión, modificación y exclusión deben de estar acompañados de **ensayos clínicos controlados**, **estudios de fármaeconomía** y **evaluación de tecnologías**  para ser consideradas por el CSG.
 
-El presente análisis busca describir la forma en la que el CSG ha ido actualizando el Cuadro Básico y analizar si existe alguna tendencia en los precios que indique una política de **costo-efectividad** a largo plazo, o bien una **reducción de costos** que impacte en el corto plazo.
-
+El presente análisis busca describir la forma en la que el CSG ha ido actualizando el cuadro básico.
 # Índice
-------------------------
 * [Metodología](#metodologia)
 * [Resultados](#resultados) 
   * [Desagregación por grupo terapéutico](#grupo)
@@ -31,11 +30,6 @@ El presente análisis busca describir la forma en la que el CSG ha ido actualiza
   * [Desagregación por año](#desagregacion)
        * [Diagrama de caja y brazos](#caja_brazos)
        * [Desagragación por tipo de actualización: Oncología](#caja_brazos_onco)
-       * [Observaciones atípicas](#outliers)
-          * [Endrocrinología](#endocrinologia)
-          * [Cardiología](#cardiologia) 
-          * [ Vacunas](#vacunas)
-          * [Hematología](#hematologia)
 * [Enfermedades raras](#enfermedades)
 * [Conclusiones](#conclusiones)
 
@@ -67,15 +61,15 @@ Los datos utilizados para este estudio se encuentran publicados en <http://www.c
 * Soluciones Electrolíticas y Sustitutos del Plasma
 * Vacunas, Toxoides, Inmunoglobulinas, Antitoxinas 		 
 	
-También se agregó un grupo de No clasificado donde se incluyo aquellos medicamentos que fueron **rechazados** y no fueron clasificados por el CSG. Este grupo no afecta el análisis pues solo se consideran los medicamentos que **si** fueron aceptados en el cuadro básico. Lo anterior se debe a que CSG publica solo los precios de los medicamentos que fueron aprobados.
+También se agregó un grupo de *No clasificado* donde se incluyó aquellos medicamentos que fueron **rechazados** y por lo tanto no fueron clasificados por el CSG. Este grupo no afecta el análisis pues solo se consideran los medicamentos que **si** fueron aceptados en el cuadro básico. Lo anterior se debe a que CSG publica solo los precios de los medicamentos que fueron aprobados.
 	
 Los precios fueron actualizados al día de hoy, considerando la inflación médica que hubo desde el año en el que se acepto la solicitud. La inflación médica fue estimada con el *INCP clasificado por objeto de gasto* por concepto de *Salud y cuidado personal*  publicado en <http://www.inegi.org.mx/est/contenidos/proyectos/inp/inpc.aspx> y con la metodología de Banxico que se encuentra en el siguiente [link](http://www.banxico.org.mx/politica-monetaria-e-inflacion/material-de-referencia/basico/preguntas-frecuentes-de-politica-monetaria-e-infla/preguntas-frecuentes002.html), en el apartado *¿Cómo puedo conocer la inflación entre dos fechas?*.
  
-Como se observará en las gráficas posteriores, algunos grupos terapéuticos cuentan con menos de 10 solicitudes aprobadas  por lo que se excluyeron del análisis posterior. 
+Como se observará en las gráficas posteriores, algunos grupos terapéuticos cuentan con menos de 10 solicitudes aprobadas  por lo que se excluyeron del análisis descriptivo de sus precios. 
 
-Para el caso de Desagregación por tipo de actualización, solo se realizo en el grupo terapéutico de Oncología pues es el único que cuenta con información suficiente.
+Para el caso de Desagregación por tipo de actualización, solo se realizo para el grupo terapéutico de Oncología pues es el único que cuenta con información suficiente.
 
-Posteriormente se analizaron las observaciones atípicas que hubo en algunos grupos terapéuticos para comprender mejor a que se debieron y valorar si era necesario mostrar un análisis sin estos.
+Posteriormente, se realizó un comparativo excluyendo los valores atípicos que se observaron en algunos grupos terapéuticos , los cuales correspondian al tratamiento de enfermedades raras.
 
 		
 # Resultados
@@ -93,7 +87,7 @@ Posteriormente se analizaron las observaciones atípicas que hubo en algunos gru
 
 ***Nota:***
 
--   *Como se puede observar hay grupo terapéuticos con menos de 10 solicitudes por lo que se omitiran en el análisis.*
+-   *Como se puede observar hay grupo terapéuticos con menos de 10 solicitudes por lo que se omitirán en el análisis.*
 
 #### Proporción de medicamentos aceptados al cuadro básico por grupo terapéutico <a id="proporcion"></a>
 
@@ -101,8 +95,7 @@ Posteriormente se analizaron las observaciones atípicas que hubo en algunos gru
 
 ***Observaciones:***
 
--   *Los medicamentos clasificados en grupos terapéuticos Vacunas y Analgesia son los más aceptados.*
--   *Mientras que los medicamentos pertenecientes a Oncología y Neurología fueron los menos aceptados.*
+-   *Los medicamentos clasificados en grupos terapéuticos Vacunas y Analgesia son los más aceptados, mientras que los medicamentos pertenecientes a Oncología y Neurología fueron los menos aceptados.*
 
 
 #### Promedio de precios de medicamentos aceptados por grupo terapéutico <a name="promedio"></a>
@@ -114,6 +107,7 @@ Posteriormente se analizaron las observaciones atípicas que hubo en algunos gru
 
 -   *Los grupos terapéuticos con medicamentos aceptados más costosos son: Oncología y Enfermedades. Parasitaras*
 -   *Los grupos terapéuticos con medicamentos menos costosos coinciden con lo más aceptados, en este caso: Analgesia y Vacunas.*
+- *Oncología es un grupo terapéutico donde no se aceptan casi solicitudes, sin embargo, los precios de los medicamentos que si fueron aceptados son muy altos en comparación de los demás grupos.*
 
 ## Desagregación por año <a id="desagregacion"></a>
 
@@ -135,64 +129,7 @@ Posteriormente se analizaron las observaciones atípicas que hubo en algunos gru
 **Observaciones:**
 
 -   *Solo se desagrego Oncología por tipo de actualización pues es el único grupo que presenta información suficiente*
--   *El rango de precios de los medicamentos aceptados para modificación en el cuadro básico han ido aumentando*
-
-### Outliers <a name="outliers"></a>
---------
-
-#### Endocrinología  <a id = "endocrinología"></a>
-
- |Fecha.de.emision|Precio|Actualizacion|Nombre|Presentacion|
- |----------------|------|-------------|------|-----------|
- |2013-11-05 | 52890.97|     Inclusión|Nitisinona| 2mg cada caja con 60 cápsulas|
- |2013-11-05 |132227.88  |   Inclusión|Nitisinona| 5mg cada caja con 60 cápsulas|
- |2013-11-05| 264456.18  |   Inclusión|Nitisinona| 10mg cada caja con 60 cápsulas|
-                                     
-
-![](/images-post/cuadro_basico/cuadro_basico_6.png)
-
-**Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente. La nitisinona es un medicamento para tratar una enfermedad rara llamada tirosinemina hereditaria tipo I. Por lo que no es un medicamento para tratar enfermedades comunes en el grupo terapéutico.*
-
-**Obs:** *Podemos notar que removiendo los outliers cambia el rango de precios del año 2013, observandose que la mayoría de los precios de los medicamentos se concentran alrededor de aprox. $300, siendo el 2014 un año en donde se aceptaron precios más variados respecto al 2013*
-
-#### Cardiología <a id = "cardiología"></a>
-
-|Fecha.de.emision|Precio|Nombre|Actualizacion|Presentacion
-|----------------|------|--------|-----------|-----------|
-|2014-09-02|  3521.486| Tirofiban| Modificación|Tirofiban 12.5 mg bolsa
-|2016-05-10 |26000.000 |Alprostadil 500 µg|Inclusión|Caja de cartón con 5 ampolletas etiquetadas con 500mcg/1mL
-
-![](/images-post/cuadro_basico/cuadro_basico_7.png)
-
-**Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente. Aunque el Aprostadil fue catalogado en el cuadro basico dentro del grupo terapéutico Cardiología, es usado para el tratamiento de disfunción erectil.*
-
-**Obs**: *Se puede observar una mejor visualización de la escala de los datos. Claramente se nota que el año 2016 fue un año atipico en el sentido de que aumento tanto el rango de precios de los medicamentos aceptados asi como el precio promedio de manera significativa.*
-
-#### Vacunas <a id = "vacunas"></a>
-
-|Fecha.de.emision|Precio|Nombre|Actualizacion| Presentacion|
-|----------------|------|------|-------------|--------------|
-|2014-09-02|5247.327| Vacuna contra Rotavirus| Modificación|Envase con 50 jeringas prellenadas y/o tubo de plástico con 1.5 ml|
-|2015-08-25|5269.837|  Inmunoglobulina humana|  Inclusión|4g/ 20 ml|
- 
-![](/images-post/cuadro_basico/cuadro_basico_8.png)
-
-**Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente*
-
-#### Hematología <a id = "hematologia"></a>
-
-|Fecha de emision|Precio|Nombre|Actualizacion|Presentacion|
-|------------|-------|--------------|--------|------|
-|2015-08-25| 24115.40|Eptacog alfa|  Modificación| Envase con un frasco ámpula con liofilizado (2 mg) y un frasco ámpula con  2.1 ml de diluyente|
-|2015-08-25| 60288.49|Eptacog alfa|  Modificación|Envase con un frasco ámpula con liofilizado (5 mg) y un frasco ámpula con  5.2 ml de diluyente|
-|2016-09-20| 25200.00|    Turoctocog alfa|Inclusión|Frasco ámpula con 3000 UI|
-|2016-10-18| 32000.00| Fibrinógeno Humano|Inclusión|Frasco ámpula con 1.5 g de fibrinógeno humano y frasco ámpula con 100 ml de diluyente
-
-![](/images-post/cuadro_basico/cuadro_basico_9.png)
-
-**Nota:** *Los outliers que se removieron en la segunda grafica corresponden a los mostrados previamente*
-
-**Obs:** *Más alla de un cambio de escala, no cambia el patron en el grupo terapéutico **Vacunas** y **Hematología***
+-   *El rango de precios de los medicamentos aceptados para modificación en el cuadro básico han ido aumentando.*
 
 
 
@@ -200,9 +137,9 @@ Posteriormente se analizaron las observaciones atípicas que hubo en algunos gru
 
 De acuerdo a la Federación Mexicana de Enfermedades Raras (FEMEXER), una enfermedad es considerada [enfermedad rara](http://www.femexer.org/que-es-enfermedad-rara/) cuando afectan a un pequeño número de personas comparado con la población general, aproximadamente a 5 personas de cada 10,000. 
 
-A continuación se muestra un comparativo, excluyendo aquellos medicamentos prescritos para enfermedades raras cuyo precio este por arriba del 75% de los medicamentos dentro del mismo grupo terapéutico.
+A continuación se muestra un comparativo, excluyendo aquellos medicamentos prescritos para enfermedades raras cuyo precio este por arriba del 75% de los medicamentos dentro del mismo grupo terapéutico. Es decir, aquellos outliers que corresponden a tratamientos para enfermedades raras y analizar la influencia que tienen.
 
-|Nombre|Categoria|Precio|
+|Nombre|Categoria|Precio($)|
 |------|---------|------|
 |Darbepoetina alfa (onco)|Hematología|5570.642|
 |Darbepoetina alfa (onco)|Hematología|9284.404|
@@ -246,7 +183,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 			
 ![](/images-post/cuadro_basico/cuadro_basico_10.png)
 
-**Observación**: En la grafica anterior podemos observar que Hematología y Endocrinología son los grupos terapéuticos donde más se aceptan medicamentos para el tratamiento de enfermedades raras.
+**Observación**: En la grafica anterior podemos observar que Hematología y Endocrinología son los grupos terapéuticos donde más se aceptan medicamentos con precios muy altos para el tratamiento de enfermedades raras .
 		
 ## Desagregado por años
 
@@ -254,17 +191,15 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 
 ![](/images-post/cuadro_basico/cuadro_basico_11.png)
 
-**Observación**: Podemos notar en los diagramas anteriores la diferencia en los precios de los medicamentos prescritos para enfermedades raras y los demás medicamentos dentro de un grupo terapéutico. Esto se puede notar en el cambio de escala de los diagramas asi como de las tendencias que hay entre años. Por ejemplo Hematología mostraba un comportamiento ascendente encuanto al rango de precios, sin embargo, esto era principalmente por los medicamentos para enfermedades raras.
+**Observación**: Podemos notar en los diagramas anteriores la diferencia en los precios de los medicamentos prescritos para enfermedades raras y los demás medicamentos dentro de un grupo terapéutico. Esto se puede ver en el cambio de escala de los diagramas asi como de las tendencias que hay entre años, por ejemplo, Hematología mostraba un comportamiento ascendente respecto al rango de precios, sin embargo, esto era principalmente por los solicitudes aceptadas de medicamentos para enfermedades raras.
 
 
 # Conclusiones<a id = "conclusiones"></a>
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
- La industria farmaceutica esta más enfocada en medicamentos oncologicos; una posible razón sería por sus altos precios  y su inelasticidad respecto al precio. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
-
-El grupo de Endocrinología y Metabolismo, donde se encuentran tratamientos para enfermedades como la diabetes, presentan, en promedio, los precios más altos y no por ello son rechazados, siendo el tercer grupo con más solicitudes.
-
-Analgesia es el grupo que más se ha aceptado en el cuadro básico, ya se para modificación o inclusión, y también es el que presenta menores precios en los medicamentos. 
-
-
+ La industria farmaceutica esta más enfocada en medicamentos oncologicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
+ 
+También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influía en gran medida en el análisis inicial de cada grupo terapéutico pues hacia variar los precios de manera importante.  
+ 
+Es tanta la importancia de este tipo de tratamientos que el pasado 19 de enero se acordo la creación de la *Comisión para el Análisis, Evaluación, Registro y Seguimiento de las Enfermedades Raras*, este acuerdo se encuentra ya publicado en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5469383&fecha=19/01/2017). Esto facilitará y mejorará el estudio de este tipo de enfermedades de gran relevancia en el futuro.
