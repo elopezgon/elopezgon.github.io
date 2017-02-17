@@ -182,7 +182,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 **Observación**: Podemos notar en los diagramas anteriores la diferencia en los precios de los medicamentos prescritos para enfermedades raras y los demás medicamentos dentro de un grupo terapéutico. Esto se puede ver en el cambio de escala de los diagramas asi como de las tendencias que hay entre años, por ejemplo, Hematología mostraba un comportamiento ascendente respecto al rango de precios, sin embargo, esto era principalmente por los solicitudes aceptadas de medicamentos para enfermedades raras.
 
 
-# Conclusiones<a id = "conclusiones"></a>
+# Conclusiones
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
