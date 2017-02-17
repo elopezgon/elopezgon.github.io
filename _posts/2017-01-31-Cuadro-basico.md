@@ -10,9 +10,7 @@ author: Edgar, Roberto
 
 * content
 {:toc}
-
 Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
-
 ![](/images-post/dinero.jpg)
 
 
