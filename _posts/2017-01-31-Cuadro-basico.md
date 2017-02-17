@@ -17,7 +17,30 @@ Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos m
 
 El presente análisis busca describir la forma en la que el CSG ha ido actualizando el cuadro básico.
 
-\n\n\n\n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
