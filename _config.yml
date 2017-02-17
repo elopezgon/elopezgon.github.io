@@ -48,7 +48,7 @@ category_dir: category/
 tag_dir: tag/
 
 # excerpt
-excerpt_separator: "!!!!!"
+excerpt_separator: "!<--->"
 
 # paginate
 gems: [jekyll-paginate]
