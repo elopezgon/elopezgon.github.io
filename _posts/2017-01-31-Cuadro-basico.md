@@ -1,6 +1,6 @@
 --
 layout: post
-title:  ¿Que medicamentos se están aceptando en el cuadro básico y a qué precio?
+title:  ¿Qué medicamentos se están aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
 tags: grupos terapéuticos medicamentos cuadro básico CSG
