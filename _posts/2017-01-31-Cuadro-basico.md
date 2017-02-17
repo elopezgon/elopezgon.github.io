@@ -10,7 +10,8 @@ author: Edgar, Roberto
 {:toc}
 
 Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
---------------------------------------------
+
+
 
 
 
@@ -20,18 +21,6 @@ Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar,
 Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos medicamentos en el Cuadro básico se encuentran publicados en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5197525&fecha=22/06/2011). Estas solicitudes de inclusión, modificación y exclusión deben de estar acompañados de **ensayos clínicos controlados**, **estudios de fármaeconomía** y **evaluación de tecnologías**  para ser consideradas por el CSG.
 
 El presente análisis busca describir la forma en la que el CSG ha ido actualizando el cuadro básico.
-# Índice
-* [Metodología](#metodologia)
-* [Resultados](#resultados) 
-  * [Desagregación por grupo terapéutico](#grupo)
-       * [¿Qué grupo terapéutico recibe más solicitudes de medicamentos?](#numero)
-       * [¿Qué grupo terapéutico acepta más  medicamentos?](#proporcion)
-       * [¿Qué grupo terapéutico ha aceptado medicamentos más caros?](#promedio)
-  * [Desagregación por año](#desagregacion)
-       * [Diagrama de caja y brazos](#caja_brazos)
-       * [Desagragación por tipo de actualización: Oncología](#caja_brazos_onco)
-* [Enfermedades raras](#enfermedades)
-* [Conclusiones](#conclusiones)
 
 
 # Metodología <a id="metodologia"></a>
@@ -194,7 +183,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 **Observación**: Podemos notar en los diagramas anteriores la diferencia en los precios de los medicamentos prescritos para enfermedades raras y los demás medicamentos dentro de un grupo terapéutico. Esto se puede ver en el cambio de escala de los diagramas asi como de las tendencias que hay entre años, por ejemplo, Hematología mostraba un comportamiento ascendente respecto al rango de precios, sin embargo, esto era principalmente por los solicitudes aceptadas de medicamentos para enfermedades raras.
 
 
-# Conclusiones<a id = "conclusiones"></a>
+# Conclusiones
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
