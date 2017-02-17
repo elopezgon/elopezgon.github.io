@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar"
+title:  "Todo lo que siempre quiso saber sobre la marihuana en México y nunca se atrevió a preguntar"
 date:   2016-10-21 
 categories: infografía
 tags: marihuana México legalización
