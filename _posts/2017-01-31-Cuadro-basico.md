@@ -23,7 +23,7 @@ Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos m
 El presente análisis busca describir la forma en la que el CSG ha ido actualizando el cuadro básico.
 
 
-# Metodología <a id="metodologia"></a>
+## Metodología <a id="metodologia"></a>
 -------------------------------------
 Los datos utilizados para este estudio se encuentran publicados en <http://www.csg.gob.mx/contenidos/CB2013/medicamentos/ev_proceso.html>. Debido a la amplia gama de medicamentos que solicitan inclusión o modificación al cuadro básico, se hizo el esfuerzo de  clasificarlos por grupo terapéutico para un mejor análisis. Los grupos terapéuticos que considera el CSG son:
 
