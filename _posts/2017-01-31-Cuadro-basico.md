@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  ¿Qué medicamentos se estan aceptando en el cuadro básico y a qué precio?
+title:  ¿Que medicamentos se estan aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
 tags: grupos terapéuticos medicamentos
 author: Edgar, Roberto
 ---
-
-
 * content
 {:toc}
 Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
