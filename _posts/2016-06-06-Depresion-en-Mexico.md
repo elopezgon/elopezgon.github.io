@@ -12,7 +12,7 @@ La depresión mayor es un trastorno de alta prevalencia que puede generar discap
 
 ![](/images-post/depresion_ent.jpg)
 
-
+!!!!!
 
 Desafortunadamente y a pesar de ser una condición médica ocasionada por alteraciones bioquímicas del sistema nervioso, continúa siendo motivo de estigma en la sociedad, impidiendo su adecuada identificación y tratamiento. Adicionalmente, la depresión se encuentra asociada a un gran número de suicidios, que se han incrementado de manera importante en los últimos años, en nuestro país.  
 
