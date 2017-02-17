@@ -8,9 +8,11 @@ author: CADsalud
 ---
 * content
 {:toc}
-La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante en quien la padece.
+Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
+<p align="center"> <img src="/images-post/dinero.jpg" width="450"> </p> 
 
-![](/images-post/depresion_ent.jpg)
+
+
 
 
 
