@@ -1,4 +1,4 @@
---
+---
 layout: post
 title:  ¿Que medicamentos se están aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
