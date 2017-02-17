@@ -1,17 +1,20 @@
----
+--
 layout: post
-title:  ¿Qué medicamentos se estan aceptando en el cuadro básico y a qué precio?
+title:  ¿Qué medicamentos se están aceptando en el cuadro básico y a qué precio?
 date:   2017-01-31
 categories: blog
-tags: grupos terapéuticos medicamentos
+tags: grupos terapéuticos medicamentos cuadro básico CSG
 author: Edgar, Roberto
 ---
 * content
 {:toc}
-
 Una de las responsabilidades del Consejo de Salubridad General(CSG) es elaborar, actualizar y publicar cada año el ***Cuadro básico y Catálogo de Medicamentos del Sector Salud***, el cual es un documento que agrupa los medicamentos que pueden ser prescritos en el Sector Público.
+<p align="center"> 
+<img src="/images-post/dinero.jpg" width="450"> 
+</p>
 
-![](/images-post/dinero.jpg)
+
+
 
 Los lineamientos bajo los cuales se pueden incluir, modificar o excluir nuevos medicamentos en el Cuadro básico se encuentran publicados en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5197525&fecha=22/06/2011). Estas solicitudes de inclusión, modificación y exclusión deben de estar acompañados de **ensayos clínicos controlados**, **estudios de fármaeconomía** y **evaluación de tecnologías**  para ser consideradas por el CSG.
 
@@ -19,32 +22,7 @@ El presente análisis busca describir la forma en la que el CSG ha ido actualiza
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Metodología <a id="metodologia"></a>
+# Metodología <a id = "metodologia"></a>
 -------------------------------------
 Los datos utilizados para este estudio se encuentran publicados en <http://www.csg.gob.mx/contenidos/CB2013/medicamentos/ev_proceso.html>. Debido a la amplia gama de medicamentos que solicitan inclusión o modificación al cuadro básico, se hizo el esfuerzo de  clasificarlos por grupo terapéutico para un mejor análisis. Los grupos terapéuticos que considera el CSG son:
 
@@ -77,7 +55,7 @@ Los precios fueron actualizados al día de hoy, considerando la inflación médi
  
 Como se observará en las gráficas posteriores, algunos grupos terapéuticos cuentan con menos de 10 solicitudes aprobadas  por lo que se excluyeron del análisis descriptivo de sus precios. 
 
-Para el caso de Desagregación por tipo de actualización, solo se realizo para el grupo terapéutico de Oncología pues es el único que cuenta con información suficiente.
+Para el caso de Desagregación por tipo de actualización, solo se realizó para el grupo terapéutico de Oncología pues es el único que cuenta con información suficiente.
 
 Posteriormente, se realizó un comparativo excluyendo los valores atípicos que se observaron en algunos grupos terapéuticos , los cuales correspondian al tratamiento de enfermedades raras.
 
@@ -151,43 +129,43 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 
 |Nombre|Categoria|Precio($)|
 |------|---------|------|
-|Darbepoetina alfa (onco)|Hematología|5570.642|
-|Darbepoetina alfa (onco)|Hematología|9284.404|
-|Taliglucerasa| Endocrinología y Metabolismo|7189.310|
-|Lanreotida| Endocrinología y Metabolismo|13675.630|
-|Lanreotida| Endocrinología y Metabolismo|16630.399|
-|Nitisinona| Endocrinología y Metabolismo|53418.321|
-|Nitisinona| Endocrinología y Metabolismo|133546.267|
-|Nitisinona| Endocrinología y Metabolismo|267092.955|
-|Somatropina| Endocrinología y Metabolismo|1038.526|
-|Somatropina |Endocrinología y Metabolismo|1969.432|
-|Fingolimod|Neurología|28312.473|
-|Icatibant| Endocrinología y Metabolismo|31209.583|
-|Lanreotido| Endocrinología y Metabolismo|13294.206|
-|Lanreotido| Endocrinología y Metabolismo|16166.564|
-|Factor IX|Hematología|9207.731|
-|Factor IX|Hematología|18415.462|
-|Moroctocog|Hematología|9225.971|
-|Moroctocog|Hematología |18451.943|
-|Interferon beta|Neurología|3303.835|
-|Eptacog alfa|Hematología|12094.395|
-|Eptacog alfa|Hematología|24188.790|
-|Eptacog alfa|Hematología|60471.974|
-|Glatiramer|Neurología|19531.624|
-|Somatropina| Endocrinología y Metabolismo|2253.232|
-|Taliglucerasa Alfa| Endocrinología y Metabolismo|5630.620|
-|Dimetilfumarato|Neurología|18720.000|
-|Alprostadil 500 µg|Cardiología |26000.000|
-|Inhibidor de la esterasa C1 humano| Endocrinología y Metabolismo|8618.500|
-|Somatropina| Endocrinología y Metabolismo|855.540|
-|Turoctocog alfa|Hematología  |2100.000|
-|Turoctocog alfa|Hematología|4200.000|
-|Turoctocog alfa|Hematología|8400.000|
-|Turoctocog alfa|Hematología|12600.000|
-|Turoctocog alfa|Hematología |16800.000|
-|Turoctocog alfa|Hematología|25200.000|
-|Fibrinógeno Humano|Hematología |32000.000|
-|Elosulfasa Alfa| Endocrinología y Metabolismo|14561.000|
+|Darbepoetina alfa (onco)|Hematología|  5,570.6|
+|Darbepoetina alfa (onco)|Hematología|  9,284.4|
+|Taliglucerasa| Endocrinología y Metabolismo|  7,189.3|
+|Lanreotida| Endocrinología y Metabolismo| 13,675.6|
+|Lanreotida| Endocrinología y Metabolismo| 16,630.3|
+|Nitisinona| Endocrinología y Metabolismo| 53,418.3|
+|Nitisinona| Endocrinología y Metabolismo|133,546.2|
+|Nitisinona| Endocrinología y Metabolismo|267092.9|
+|Somatropina| Endocrinología y Metabolismo|  1,038.5|
+|Somatropina |Endocrinología y Metabolismo|  1,969.4|
+|Fingolimod|Neurología| 28,312.4|
+|Icatibant| Endocrinología y Metabolismo|31209.5|
+|Lanreotido| Endocrinología y Metabolismo|13294.2|
+|Lanreotido| Endocrinología y Metabolismo|16166.5|
+|Factor IX|Hematología|9207.7|
+|Factor IX|Hematología|18415.4|
+|Moroctocog|Hematología|9225.9|
+|Moroctocog|Hematología |18451.9|
+|Interferon beta|Neurología|3303.8|
+|Eptacog alfa|Hematología|12094.3|
+|Eptacog alfa|Hematología|24188.7|
+|Eptacog alfa|Hematología|60471.9|
+|Glatiramer|Neurología|19531.6|
+|Somatropina| Endocrinología y Metabolismo|2253.2|
+|Taliglucerasa Alfa| Endocrinología y Metabolismo|5630.6|
+|Dimetilfumarato|Neurología|18720.0|
+|Alprostadil 500 µg|Cardiología |26000.0|
+|Inhibidor de la esterasa C1 humano| Endocrinología y Metabolismo|8618.5|
+|Somatropina| Endocrinología y Metabolismo| 855.5|
+|Turoctocog alfa|Hematología  |2100.0|
+|Turoctocog alfa|Hematología|4200.0|
+|Turoctocog alfa|Hematología|8400.0|
+|Turoctocog alfa|Hematología|12600.0|
+|Turoctocog alfa|Hematología |16800.0|
+|Turoctocog alfa|Hematología|25200.0|
+|Fibrinógeno Humano|Hematología |32000.0|
+|Elosulfasa Alfa| Endocrinología y Metabolismo|14561.0|
             
 ### Histrograma de solicitudes de medicamentos aceptados
 			
@@ -204,7 +182,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 **Observación**: Podemos notar en los diagramas anteriores la diferencia en los precios de los medicamentos prescritos para enfermedades raras y los demás medicamentos dentro de un grupo terapéutico. Esto se puede ver en el cambio de escala de los diagramas asi como de las tendencias que hay entre años, por ejemplo, Hematología mostraba un comportamiento ascendente respecto al rango de precios, sin embargo, esto era principalmente por los solicitudes aceptadas de medicamentos para enfermedades raras.
 
 
-# Conclusiones
+# Conclusiones<a id = "conclusiones"></a>
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
