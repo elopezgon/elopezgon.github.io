@@ -9,6 +9,7 @@ author: CADsalud
 * content
 {:toc}
 La depresión mayor es un trastorno de alta prevalencia que puede generar discapacidad importante en quien la padece.
+
 ![](/images-post/depresion_ent.jpg)
 
 

@@ -14,6 +14,7 @@ La legalización en el consumo de la marihuana no es un tema tan simple. Estar a
  
 
  
+
 A pesar de contextualizar los datos de percepción sobre la legalización en el consumo de la marihuana con una encuesta levantada en 2011, es importante recalcar que en 2016 se está replicando el esfuerzo, y será de mucha utilidad conocer los resultados de la Encuesta Nacional de Adicciones 2016 que se encuentra en la segunda ronda de levantamiento de información.
 
 ![marihuana mexico](/images-post/marihuana_mex.png)
