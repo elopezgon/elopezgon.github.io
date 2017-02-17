@@ -9,13 +9,9 @@ author: CADSALUD
 ---
 * content
 {:toc}
-
-
-
 En respuesta a la iniciativa para evitar restricciones legales que impiden que personas del mismo sexo contraigan matrimonio, el Frente Nacional por la Familia convocó el pasado 10 de septiembre marchas simultáneas a nivel nacional y se preparan para una gran marcha nacional el próximo 24 de septiembre. En Animal Político reportaron que los representantes del Frente Nacional por la Familia mencionaron una afluencia de más de 1 millón de personas en más de 100 ciudades el pasado sábado, argumentando ser ciudadanos a favor de la familia, describiéndose a sí mismos de la siguiente forma:
 
-<--->
- 
+
 
 "Somos Millones de padres de familia y más de mil instituciones de la sociedad civil organizada de todo el país, que promovemos y defendemos a las instituciones más importantes de la sociedad: El matrimonio, conformado entre un hombre y una mujer, y la familia natural, ambas bases de nuestra sociedad."
 
