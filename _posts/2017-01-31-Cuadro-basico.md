@@ -97,7 +97,7 @@ Posteriormente, se realizó un comparativo excluyendo los valores atípicos que 
 -   *Los grupos terapéuticos con medicamentos menos costosos coinciden con lo más aceptados, en este caso: Analgesia y Vacunas.*
 - *Oncología es un grupo terapéutico donde no se aceptan casi solicitudes, sin embargo, los precios de los medicamentos que si fueron aceptados son muy altos en comparación de los demás grupos.*
 
-## Desagregación por año <a id="desagregacion"></a>
+## Precios desagregados por año <a id="desagregacion"></a>
 
 
 #### Diagrama de caja y brazos <a id="caja_brazos"></a>
@@ -140,32 +140,32 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 |Somatropina| Endocrinología y Metabolismo|  1,038.5|
 |Somatropina |Endocrinología y Metabolismo|  1,969.4|
 |Fingolimod|Neurología| 28,312.4|
-|Icatibant| Endocrinología y Metabolismo|31209.5|
-|Lanreotido| Endocrinología y Metabolismo|13294.2|
-|Lanreotido| Endocrinología y Metabolismo|16166.5|
-|Factor IX|Hematología|9207.7|
-|Factor IX|Hematología|18415.4|
-|Moroctocog|Hematología|9225.9|
-|Moroctocog|Hematología |18451.9|
-|Interferon beta|Neurología|3303.8|
-|Eptacog alfa|Hematología|12094.3|
-|Eptacog alfa|Hematología|24188.7|
-|Eptacog alfa|Hematología|60471.9|
-|Glatiramer|Neurología|19531.6|
-|Somatropina| Endocrinología y Metabolismo|2253.2|
-|Taliglucerasa Alfa| Endocrinología y Metabolismo|5630.6|
-|Dimetilfumarato|Neurología|18720.0|
-|Alprostadil 500 µg|Cardiología |26000.0|
-|Inhibidor de la esterasa C1 humano| Endocrinología y Metabolismo|8618.5|
+|Icatibant| Endocrinología y Metabolismo|31,209.5|
+|Lanreotido| Endocrinología y Metabolismo|13,294.2|
+|Lanreotido| Endocrinología y Metabolismo|16,166.5|
+|Factor IX|Hematología|9,207.7|
+|Factor IX|Hematología|18,415.4|
+|Moroctocog|Hematología|9,225.9|
+|Moroctocog|Hematología |18,451.9|
+|Interferon beta|Neurología|3,303.8|
+|Eptacog alfa|Hematología|12,094.3|
+|Eptacog alfa|Hematología|24,188.7|
+|Eptacog alfa|Hematología|60,471.9|
+|Glatiramer|Neurología|19,531.6|
+|Somatropina| Endocrinología y Metabolismo|2,253.2|
+|Taliglucerasa Alfa| Endocrinología y Metabolismo|5,630.6|
+|Dimetilfumarato|Neurología|18,720.0|
+|Alprostadil 500 µg|Cardiología |26,000.0|
+|Inhibidor de la esterasa C1 humano| Endocrinología y Metabolismo|8,618.5|
 |Somatropina| Endocrinología y Metabolismo| 855.5|
-|Turoctocog alfa|Hematología  |2100.0|
-|Turoctocog alfa|Hematología|4200.0|
-|Turoctocog alfa|Hematología|8400.0|
-|Turoctocog alfa|Hematología|12600.0|
-|Turoctocog alfa|Hematología |16800.0|
-|Turoctocog alfa|Hematología|25200.0|
-|Fibrinógeno Humano|Hematología |32000.0|
-|Elosulfasa Alfa| Endocrinología y Metabolismo|14561.0|
+|Turoctocog alfa|Hematología  |2,100.0|
+|Turoctocog alfa|Hematología|4,200.0|
+|Turoctocog alfa|Hematología|8,400.0|
+|Turoctocog alfa|Hematología|12,600.0|
+|Turoctocog alfa|Hematología |16,800.0|
+|Turoctocog alfa|Hematología|25,200.0|
+|Fibrinógeno Humano|Hematología |32,000.0|
+|Elosulfasa Alfa| Endocrinología y Metabolismo|14,561.0|
             
 ### Histrograma de solicitudes de medicamentos aceptados
 			
@@ -173,7 +173,7 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
 
 **Observación**: En la grafica anterior podemos observar que Hematología y Endocrinología son los grupos terapéuticos donde más se aceptan medicamentos con precios muy altos para el tratamiento de enfermedades raras .
 		
-## Desagregado por años
+## Precios desagregados por año	
 
 ### Diagrama de caja y brazos de precios
 
@@ -186,8 +186,8 @@ A continuación se muestra un comparativo, excluyendo aquellos medicamentos pres
  
 Como podemos observar en las graficas anteriores, el CSG no recibe de manera uniforme solicitudes para los diversos grupos terapéuticos.
 
- La industria farmaceutica esta más enfocada en medicamentos oncologicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
+ La industria farmacéutica está más enfocada en medicamentos oncológicos; una posible razón sería por sus altos precios  y su inelasticidad respecto a este. Es por ello que el CSG tiene la mayor tasa de rechazo de medicamentos oncológicos posiblemente debido a su alto precio, o bien al riesgo inherente en estos medicamentos. 
  
-También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influía en gran medida en el análisis inicial de cada grupo terapéutico pues hacia variar los precios de manera importante.  
+También se puede concluir que el CSG acepta tratamientos para enfermedades raras aún cuando el tratamiento sea muy costoso, esto posiblemente a que no impacta en gran medida en su presupuesto al no ser requeridos por la mayoría de la población.  La aceptación de estos tratamientos influye en gran medida en el análisis inicial de cada grupo terapéutico pues hace variar los precios de manera importante.  
  
-Es tanta la importancia de este tipo de tratamientos que el pasado 19 de enero se acordo la creación de la *Comisión para el Análisis, Evaluación, Registro y Seguimiento de las Enfermedades Raras*, este acuerdo se encuentra ya publicado en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5469383&fecha=19/01/2017). Esto facilitará y mejorará el estudio de este tipo de enfermedades de gran relevancia en el futuro.
+Es tanta la importancia de este tipo de tratamientos que el pasado 19 de enero se acordó la creación de la *Comisión para el Análisis, Evaluación, Registro y Seguimiento de las Enfermedades Raras*, este acuerdo se encuentra ya publicado en el [Diario Oficial de la Federación](http://dof.gob.mx/nota_detalle.php?codigo=5469383&fecha=19/01/2017). Esto facilitará y mejorará el estudio de este tipo de enfermedades de gran relevancia en el futuro.
